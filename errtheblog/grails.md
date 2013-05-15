@@ -1,0 +1,20 @@
+--- 
+grails: |-
+  Grails Commands:
+  grails create-app [AppName]
+  grails create-domain-class [lower-case-classname]
+  grails create-controller [controller-name]
+  grails generate-all [domain]
+  
+  grails help [action]
+  
+  grails run-app
+  grails shell
+  grails console
+  
+  Testing Commands:
+  ant test
+  grails test-app
+  grails test-app unit:
+  grails test-app integration:
+  grails run-webtest (with plugin)
